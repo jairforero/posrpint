@@ -6,7 +6,7 @@ import (
 	"github.com/golang/freetype"
 	"github.com/golang/freetype/truetype"
 	"github.com/google/gousb"
-	"github.com/shtirlic/postrint/printer"
+	"github.com/shtirlic/posrpint/printer"
 	"golang.org/x/image/font"
 	"image"
 	"image/draw"
